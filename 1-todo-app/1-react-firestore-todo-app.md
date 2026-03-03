@@ -58,17 +58,17 @@ If you get an error that says `command not found`, install Node from [https://no
 ## Step 2 — Create the React app
 
 ```bash
-npx create-react-app firebase-react-app
+npx create-react-app todo-app
 ```
 
-📌 `firebase-react-app` becomes your project folder name.
+📌 `todo-app` becomes your project folder name.
 
 ---
 
 ## Step 3 — Open in VS Code
 
 ```bash
-cd firebase-react-app
+cd todo-app
 code .
 ```
 

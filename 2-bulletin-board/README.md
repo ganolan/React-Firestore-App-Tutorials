@@ -29,4 +29,4 @@ You are given a **working starter app** with all the UI already built and realis
 
 ## Starter App
 
-The starter app is in the `starter-app/` folder. Open it first and follow Tutorial 1 to get it running.
+The starter app is in the `bulletin-board-starter-app/` folder. Download `bulletin-board-starter-app.zip` from GitHub and follow Tutorial 1 to get it running.

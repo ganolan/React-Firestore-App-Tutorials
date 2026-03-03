@@ -110,10 +110,20 @@ const firebaseConfig = {
 
 Replace each `"YOUR_..."` string with the matching value from your Firebase console. Keep the key names exactly as they are — only replace the values.
 
-⚠️ **Lost your Firebase config?** If you accidentally closed the Firebase Console tab, go back to [https://console.firebase.google.com](https://console.firebase.google.com), click your project, click the **gear icon ⚙️** next to "Project Overview", select **Project settings**, scroll to **Your apps**, and click the web app name to view the config again.
-
-
 ✅ When done, save the file. The app won't look different yet, but the connection is ready.
+
+
+## ⚠️ Important
+Keep the import lines at the top of the file and the `export const db` line at the bottom — only replace the values inside the `firebaseConfig` object.
+
+Do not to delete or modify:
+- The `import` statements
+- The `export const db = initializeFirestore(app);` line
+- The opening and closing braces of `firebaseConfig`
+
+Only change the values (like `"YOUR_API_KEY"`)
+
+**Lost your Firebase config?** If you accidentally closed the Firebase Console tab, go back to [https://console.firebase.google.com](https://console.firebase.google.com), click your project, click the **gear icon ⚙️** next to "Project Overview", select **Project settings**, scroll to **Your apps**, and click the web app name to view the config again.
 
 ---
 

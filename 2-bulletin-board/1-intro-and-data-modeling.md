@@ -30,14 +30,14 @@ By the end of this tutorial you will be able to:
 ## Step 1 — Download the starter app
 
 1. Go to the course GitHub repository
-2. Find the file `2-bulletin-board/starter-app.zip`
+2. Find the file `2-bulletin-board/bulletin-board-starter-app.zip`
 3. Click the **Download raw file** button (the download icon on the right side of the toolbar)
-4. Once downloaded, find `starter-app.zip` in your Downloads folder and double-click it to unzip
-5. Move the `starter-app` folder somewhere sensible, such as your class project folder
+4. Once downloaded, find `bulletin-board-starter-app.zip` in your Downloads folder and double-click it to unzip
+5. Move the `bulletin-board-starter-app` folder somewhere sensible, such as your class project folder
 
 ## Step 2 — Open the starter app in VS Code
 
-1. In Finder, navigate to the `starter-app` folder
+1. In Finder, navigate to the `bulletin-board-starter-app` folder
 2. Right-click → **Services → New Terminal at Folder**
 3. Open VS Code from the terminal:
 
