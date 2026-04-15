@@ -40,6 +40,20 @@ Students are given a working React frontend with hardcoded data. The tutorials g
 
 ---
 
+### 3 — Security & Authentication
+> Understand what protects your data — and add user sign-in to your app.
+
+Covers API key misconceptions, Firebase Security Rules, and adding Google Authentication so your app knows who each user is.
+
+| Tutorial | Topic |
+|---|---|
+| 1 | API keys, Security Rules, and the one credential that's actually secret |
+| 2 | Add Google sign-in with Firebase Authentication |
+
+📁 [`3-security-and-authentication/`](3-security-and-authentication/)
+
+---
+
 ## Prerequisites
 
 - VS Code

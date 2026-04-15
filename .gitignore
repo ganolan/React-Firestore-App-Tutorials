@@ -5,4 +5,10 @@
 
 # PDFs (local use only)
 *.pdf
-.DS_Store
+
+# Personal project-level overrides (private)
+CLAUDE.local.md
+
+# Personal session data and local settings
+.claude/settings.local.json
+.claude/.session_*
